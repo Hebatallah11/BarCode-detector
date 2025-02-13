@@ -2,6 +2,9 @@
 
 A modern Python application that implements two different approaches for barcode detection, featuring a user-friendly graphical interface and comprehensive image manipulation capabilities.
 
+![Screenshot 2025-02-08 110956](https://github.com/user-attachments/assets/77215383-c4a3-4620-bf8b-90fdd5fe51a6)
+
+
 # Features
 
 - Dual detection methods:
