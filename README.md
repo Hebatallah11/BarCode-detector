@@ -1,7 +1,8 @@
-#Barcode Detection System
+# Barcode Detection System
+
 A modern Python application that implements two different approaches for barcode detection, featuring a user-friendly graphical interface and comprehensive image manipulation capabilities.
 
-#Features
+# Features
 
 - Dual detection methods:
     - OpenCV-based detection
@@ -14,7 +15,7 @@ A modern Python application that implements two different approaches for barcode
 - Comprehensive error handling
 - Status feedback system
 
-#Requirements
+# Requirements
 
 - Python 3.x
 - OpenCV 4.x
@@ -24,7 +25,7 @@ A modern Python application that implements two different approaches for barcode
 - PIL/Pillow
 - Scikit-image
 
-#Usage
+# Usage
 
 1. Run the application:
     python BarCodeDetector.py
@@ -37,9 +38,9 @@ A modern Python application that implements two different approaches for barcode
 - Use undo/redo buttons to manage changes
 - Save results using File → Save Result
 
-#Detection Methods
+# Detection Methods
 
-#OpenCV Method
+## OpenCV Method
 
 Uses advanced image processing techniques including:
 - Sobel edge detection
@@ -47,7 +48,7 @@ Uses advanced image processing techniques including:
 - Morphological operations
 - Contour detection
 
-#Low-Level Method
+## Low-Level Method
 
 Implements fundamental image processing operations:
 - Custom convolution
@@ -55,7 +56,7 @@ Implements fundamental image processing operations:
 - Region analysis
 - Connected component labeling
 
-#GUI Features
+## GUI Features
 
 - Modern, responsive interface
 - Image navigation controls
